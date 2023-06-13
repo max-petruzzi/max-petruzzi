@@ -1,8 +1,8 @@
 ### Hi there 👋  
 
-I'm a current graduate student studying data science at MIT. I am currently searching for a full-time position for after graduation.  
+I'm a current graduate student studying data science at MIT. I am searching for a full-time position for after graduation.  
 
-I come from a Neuroscience and Biology background from UNC-Chapel Hill 🐏, so I am interested in applications of machine learning that help improve patient outcomes.  
+I come from a Neuroscience and Biology background from UNC-Chapel Hill 🐏, so I am interested in applications of machine learning that help improve patient outcomes!  
 
 Some of the projects I have worked on include:  
 🚑 Optimizing inter-hospital patient transfer routing (Python/Julia, partner Rachit Jain)  
