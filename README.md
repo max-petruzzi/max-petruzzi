@@ -7,6 +7,7 @@ I come from a Neuroscience and Biology background from UNC-Chapel Hill 🐏, so 
 Some of the projects I have worked on include:  
 💊 Finding patient subpopulations that respond exceptionally well to a particular treatment for biliary cirrhosis (Julia, partner Guillaume Bonheure)  
 🚑 Optimizing inter-hospital patient transfer routing (Python/Julia, partner Rachit Jain)  
+🏥 Making interpretable time-series predictions of COVID-19 impact based on staffing shortages and hospital overcapacity (R/Python, partners Alexandre Berkovic, Sri Reddy, Osho Yonzon)
 
 Feel free to check out my portfolio as well as my web dashboard for visualizing the optimal patient transfer routes we found.  
 
