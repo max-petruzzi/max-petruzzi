@@ -5,9 +5,9 @@ I'm a current graduate student studying data science at MIT.
 I come from a Neuroscience and Biology background from UNC-Chapel Hill 🐏, so I am interested in applications of machine learning and AI that help improve patient outcomes!  
 
 Some of the projects I have worked on include:  
-[💊 * ](https://github.com/max-petruzzi/ML-Exceptional-Drug-Responders-Project) Finding patient subpopulations that respond exceptionally well to a particular treatment for biliary cirrhosis (Julia, partner Guillaume Bonheure)  
-[🚑 * ](https://github.com/rachit-0032/Patient-Transfer-Optimization) Optimizing inter-hospital patient transfer routing (Python/Julia, partner Rachit Jain)  
-[🏥 * ](https://github.com/alexandreberkovic/Analytics-Edge) Making interpretable time-series predictions of COVID-19 impact based on staffing shortages and hospital overcapacity (R/Python, partners Alexandre Berkovic, Sri Reddy, Osho Yonzon)  
+[💊 [link]](https://github.com/max-petruzzi/ML-Exceptional-Drug-Responders-Project) Finding patient subpopulations that respond exceptionally well to a particular treatment for biliary cirrhosis (Julia, partner Guillaume Bonheure)  
+[🚑 [link]](https://github.com/rachit-0032/Patient-Transfer-Optimization) Optimizing inter-hospital patient transfer routing (Python/Julia, partner Rachit Jain)  
+[🏥 [link]](https://github.com/alexandreberkovic/Analytics-Edge) Making interpretable time-series predictions of COVID-19 impact based on staffing shortages and hospital overcapacity (R/Python, partners Alexandre Berkovic, Sri Reddy, Osho Yonzon)  
 
 Feel free to check out my portfolio as well as my [web dashboard](https://max-petruzzi.github.io/) for visualizing the optimal patient transfer routes we found.
 
