@@ -9,7 +9,7 @@ Some of the projects I have worked on include:
 🚑 Optimizing inter-hospital patient transfer routing (Python/Julia, partner Rachit Jain)  
 🏥 Making interpretable time-series predictions of COVID-19 impact based on staffing shortages and hospital overcapacity (R/Python, partners Alexandre Berkovic, Sri Reddy, Osho Yonzon)
 
-Feel free to check out my portfolio as well as my [web dashboard](https://max-petruzzi.github.io/) for visualizing the optimal patient transfer routes we found.  
+Feel free to check out my portfolio as well as my [web dashboard](https://max-petruzzi.github.io/) for visualizing the optimal patient transfer routes we found.
 
 If you'd like to reach me:  
 mpetruzz@mit.edu  
