@@ -5,8 +5,8 @@ I'm a current graduate student studying data science at MIT.
 I come from a Neuroscience and Biology background from UNC-Chapel Hill 🐏, so I am interested in applications of machine learning that help improve patient outcomes!  
 
 Some of the projects I have worked on include:  
-🚑 Optimizing inter-hospital patient transfer routing (Python/Julia, partner Rachit Jain)  
 💊 Finding patient subpopulations that respond exceptionally well to a particular treatment for biliary cirrhosis (Julia, partner Guillaume Bonheure)  
+🚑 Optimizing inter-hospital patient transfer routing (Python/Julia, partner Rachit Jain)  
 
 Feel free to check out my portfolio as well as my web dashboard for visualizing the optimal patient transfer routes we found.  
 
