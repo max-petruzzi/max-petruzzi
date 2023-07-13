@@ -10,7 +10,7 @@ I come from a Neuroscience and Biology background from UNC-Chapel Hill 🐏, so 
 🏥 Making interpretable time-series predictions of COVID-19 impact based on staffing shortages and hospital overcapacity (R/Python, partners Alexandre Berkovic, Sri Reddy, Osho Yonzon) [[link]](https://github.com/alexandreberkovic/Analytics-Edge)
 
 #### I have also worked on projects in other domain areas, including:  
-🚢 A collaboration with CMA CGM, the world's third-largest shipping company, to automatically predict no-action emails and thus improve the operational efficiency of their customer support team [[link]](https://github.com/victor-radermecker/AnalyticsLab_Project)
+🚢 A collaboration with CMA CGM, the world's third-largest shipping company, to automatically predict no-action emails and thus improve the operational efficiency of their customer support team (Python, partners Victor Radermecker, Andrea Zanon, Guillaume Bonheure) [[link]](https://github.com/victor-radermecker/AnalyticsLab_Project)
 
 Feel free to check out my portfolio as well as my [web dashboard](https://max-petruzzi.github.io/) for visualizing the optimal patient transfer routes we found.
 
