@@ -1,8 +1,10 @@
 ### Hi there 👋  
 
-I'm a current graduate student studying data science at MIT.  
+I'm a current AI/Machine Learning Scientist at Elevance Health in Chicago, IL.
 
-I come from a Neuroscience and Biology background from UNC-Chapel Hill 🐏, so I am interested in applications of machine learning and AI that help improve patient outcomes and bring life-saving therapeutics to market!  
+I completed my Master's in data science at MIT, studying machine learning, optimization, and analytics.
+
+I originally come from a Neuroscience and Biology background from UNC-Chapel Hill 🐏, so I am interested in applications of machine learning and AI that help improve patient outcomes and bring life-saving therapeutics to market!  
 
 #### Some of the life sciences or healthcare projects I have worked on include: 
 💊 Finding patient subpopulations that respond exceptionally well to a particular treatment for biliary cirrhosis (Julia, partner Guillaume Bonheure) [[link]](https://github.com/max-petruzzi/ML-Exceptional-Drug-Responders-Project)  
@@ -16,7 +18,7 @@ I come from a Neuroscience and Biology background from UNC-Chapel Hill 🐏, so 
 Feel free to check out my portfolio as well as my [web dashboard](https://max-petruzzi.github.io/) for visualizing the optimal patient transfer routes we found.
 
 If you'd like to reach me:  
-mpetruzz@mit.edu  
+maxpetruzzi@alum.mit.edu
 www.linkedin.com/in/max-petruzzi/  
 
 <!--
