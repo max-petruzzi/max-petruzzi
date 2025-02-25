@@ -2,7 +2,7 @@
 
 I'm a current AI/Machine Learning Scientist at Elevance Health in Chicago, IL.
 
-I completed my Master's in data science at MIT, studying machine learning, optimization, and analytics.
+I completed my Master's in data science at MIT 🦫, studying machine learning, optimization, and analytics.
 
 I originally come from a Neuroscience and Biology background from UNC-Chapel Hill 🐏, so I am interested in applications of machine learning and AI that help improve patient outcomes and bring life-saving therapeutics to market!  
 
