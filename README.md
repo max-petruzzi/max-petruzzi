@@ -18,7 +18,7 @@ I originally come from a Neuroscience and Biology background from UNC-Chapel Hil
 Feel free to check out my portfolio as well as my [web dashboard](https://max-petruzzi.github.io/) for visualizing the optimal patient transfer routes we found.
 
 If you'd like to reach me:  
-maxpetruzzi@alum.mit.edu
+maxpetruzzi@alum.mit.edu  
 www.linkedin.com/in/max-petruzzi/  
 
 <!--
